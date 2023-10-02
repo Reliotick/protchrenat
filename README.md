@@ -14,14 +14,6 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-090909.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-090909?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 
-### My Own Games
-
-[![1st_game](https://img.shields.io/badge/-1st_game-090909?style=for-the-badge&logo=YouTubeGaming)](https://www.notion.so/Quick-Note-143cc0d9718440e1830f7ea098a63653)
-
-### Games I Worked On
-
-[![2st_game](https://img.shields.io/badge/-2st_game-090909?style=for-the-badge&logo=YouTube)](https://youtu.be/)
-
 ### Follow Me
 
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCmYiMoGPylxpdBO8FmTMB4A)
