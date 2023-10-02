@@ -16,6 +16,5 @@
 
 ### Follow Me
 
-[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCmYiMoGPylxpdBO8FmTMB4A)
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/perablital/)
-[![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=vk&logoColor=318CE7)](https://vk.com/protch.renat)
+###[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/perablital/) @perablital
+###[![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=vk&logoColor=318CE7)](https://vk.com/protch.renat) vk.com/protch.renat
