@@ -6,7 +6,6 @@
 ![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity)
 ![CSharp](https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=csharp&logoColor=37E1FF)
 ![Blender](https://img.shields.io/badge/-Blender-090909?style=for-the-badge&logo=blender&logoColor=F4CA16)
-![Confluence](https://img.shields.io/badge/confluence-090909.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-090909.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-090909?style=for-the-badge&logo=adobephotoshop&logoColor=007DFF)                        
